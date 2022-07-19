@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+
+.container {
+    text-align: center;
+    background-color: #98B4C0;
+}
+
+
+.nameAndFav {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 2vh;
+}
+
+.container img {
+    width: 6vh;
+}
+
+
+.container h1 {
+    font-family: 'Just Another Hand', cursive;
+    margin-top: -1vh;
+    font-size: 3.1rem;
+    font-weight: 200;
+}
+
+.container h4 {
+    margin: 0 48vw 0 0;
+    font-family: 'Signika', sans-serif;
+    font-size: 1.3rem;
+}
+
+
+.container input {
+    width: 68vw;
+    height: 5vh;
+    border-radius: 3px;
+    border: none;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Signika', sans-serif;
+}
+
+.container input:focus,
+.container input:active {
+    outline: none;
+}
+
+.btnContainer {
+    display: flex;
+    justify-content: space-between;
+    margin: 38vh 6vh 0vh 3vh;
+}
+
+.container button {
+    font-family: 'Signika', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    left: 2vh;
+    background-color: #473b2c;
+    border: solid transparent;
+    border-radius: 16px;
+    border-width: 0 0 4px;
+    cursor: pointer;
+    letter-spacing: .8px;
+    line-height: 20px;
+    touch-action: manipulation;
+    transform: translateZ(0);
+    transition: filter .2s;
+    width: 30vw;
+    height: 5vh;
+    position: relative;
+    bottom: 2vh;
+
+}
+
+
+.container button:after {
+    background-clip: padding-box;
+    background-color: #9e8466;
+    border: solid transparent;
+    border-radius: 16px;
+    border-width: 0 0 4px;
+    bottom: -4px;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+
+.hideAllRecipes {
+    display: none;
+}
+
+.container p {
+    width: 32vh;
+    height: 20vh;
+    margin: 3vh auto;
+    overflow: scroll;
+    margin-top: 3vh;
+    border: 1px solid;
+    padding: 2vh;
+    text-align: justify;
+}

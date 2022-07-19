@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+
+
+
+.container {
+    background-color: #98B4C0;
+    height: 100vh;
+}
+
+.container h1 {
+    margin: 0 0 2vh 0;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 5rem;
+    font-weight: 100;
+    text-align: center;
+
+}
+
+.emptyList {
+    display: block;
+    text-align: center;
+}
+
+.emptyList h5 {
+    font-family: 'Signika', sans-serif;
+    font-size: 2rem;
+}
+
+.emptyList h6 {
+    font-family: 'Signika', sans-serif;
+    font-size: 3rem;
+}
+
+.emptyList span {
+    font-family: 'Just Another Hand', cursive;
+    font-weight: 100;
+}
+
+
+.hideEmpty {
+    display: none;
+}
+
+.emptyList button {
+    font-family: 'Signika', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    left: 2vh;
+    background-color: #473b2c;
+    border: solid transparent;
+    border-radius: 16px;
+    border-width: 0 0 4px;
+    cursor: pointer;
+    letter-spacing: .8px;
+    line-height: 20px;
+    touch-action: manipulation;
+    transform: translateZ(0);
+    transition: filter .2s;
+    width: 40vw;
+    height: 8vh;
+}
+
+
+.emptyList button:after {
+    background-clip: padding-box;
+    background-color: #9e8466;
+    border: solid transparent;
+    border-radius: 16px;
+    border-width: 0 0 4px;
+    bottom: -4px;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+
+.backBtn {
+    position: fixed;
+    bottom: -9vh;
+    left: 2vh;
+    width: 5vh;
+}
+
+.categoryColor {
+    display: flex;
+    justify-content: center;
+
+}
+
+.green {
+    background-color: #CDDEC3;
+    border-radius: 50%;
+    width: 6vh;
+    height: 6vh;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 3vh;
+    font-weight: 700;
+}
+
+.blue {
+    background-color: #9bcad5;
+    border-radius: 50%;
+    width: 6vh;
+    height: 6vh;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 3vh;
+    font-weight: 700;
+}
+
+.red {
+    background-color: #e1bb8c;
+    border-radius: 50%;
+    width: 6vh;
+    height: 6vh;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 3vh;
+    font-weight: 700;
+}
+
+.categoryNone {
+    display: none;
+}

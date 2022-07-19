@@ -1,0 +1,357 @@
+[{
+    "id": 1,
+    "name": "Pannkakor",
+    "chef": "Json Derulo",
+    "img": "https://img.koket.se/standard-mega/pannkaka-ny.jpg",
+    "time": "Under 1 timme",
+    "portions": 1,
+    "category": "Vegetarisk",
+    "ingredients": [{
+        "name": "Vetemjöl",
+        "amount": 1,
+        "measurement": "dl"
+    }, {
+        "name": "Salt",
+        "amount": 1,
+        "measurement": "krm"
+    }, {
+        "name": "Mjölk",
+        "amount": 1.5,
+        "measurement": "dl"
+    }, {
+        "name": "Ägg",
+        "amount": 1,
+        "measurement": "st"
+    }, {
+        "name": "Smör till stekning",
+        "amount": 1,
+        "measurement": "st"
+    }],
+    "description": "Blanda mjöl och salt i en bunke. Vispa i hälften av mjölken och vispa till en slät smet. Vispa i resten av mjölken och äggen. Stek tunna pannkakor i lite smör, för varje pannkaka, i en stek- eller pannkakspanna. Servera med sylt, bär eller frukt eller med salta tillbehör"
+}, {
+    "id": 2,
+    "name": "Pesto",
+    "chef": "Marco",
+    "img": "https://assets.icanet.se/e_sharpen:80,q_auto,dpr_1.25,w_718,h_718,c_lfill/imagevaultfiles/id_184534/cf_259/pesto_med_basilika.jpg",
+    "time": "Under 30 minuter",
+    "portions": 1,
+    "category": "Vegetarisk",
+    "ingredients": [{
+        "name": "Basilika",
+        "amount": 0.5,
+        "measurement": "kruka"
+    }, {
+        "name": "Pinjenötter",
+        "amount": 0.25,
+        "measurement": "dl"
+    }, {
+        "name": "Vitlök",
+        "amount": 0.5,
+        "measurement": "klyfta"
+    }, {
+        "name": "Parmesan",
+        "amount": 0.5,
+        "measurement": "dl"
+    }, {
+        "name": "Olivolja",
+        "amount": 0.5,
+        "measurement": "dl"
+    }, {
+        "name": "Salt & Peppar",
+        "amount": 0.25,
+        "measurement": "tsk"
+    }],
+    "description": "Mixa alla ingredienser till en slät pesto. Koka pasta och blanda sedan i peston."
+}, {
+    "id": 3,
+    "name": "Hjortronmuffins",
+    "chef": "Joanna Fulmine",
+    "img": "https://static.mathem.se/shared/images/recipes/doublelarge/muffins_grundrecept2_foto-andrea-klintbjer_mathem.jpeg",
+    "time": "Under 30 minuter",
+    "portions": 1,
+    "category": "Vegetarisk",
+    "ingredients": [{
+        "name": "Smör eller Margarin",
+        "amount": 150,
+        "measurement": "g"
+    }, {
+        "name": "Socker",
+        "amount": 1,
+        "measurement": "dl"
+    }, {
+        "name": "Ägg",
+        "amount": 2,
+        "measurement": "dl"
+    }, {
+        "name": "Vetemjöl",
+        "amount": 2,
+        "measurement": "dl"
+    }, {
+        "name": "Vaniljsocker",
+        "amount": 1,
+        "measurement": "tsk"
+    }, {
+        "name": "Bakpulver",
+        "amount": 1,
+        "measurement": "tsk"
+    }, {
+        "name": "Mjölk",
+        "amount": 5,
+        "measurement": "cl"
+    }, {
+        "name": "Hjotron till fyllning",
+        "amount": 1,
+        "measurement": "dl"
+    }],
+    "description": "1 sats blir 6 muffins. Rör matfett och socker poröst, gärna med elvisp. Tillsätt äggen, ett i taget, och rör kraftigt emellan. Blanda vetemjölet med vaniljsocker och bakpulver. Blanda ner mjölblandningen och mjölken och rör till en jämn smet. Fördela smeten i en lätt smord muffinspanna med 12 hål (för 12 st). Gör en liten grop i varje muffins och lägg en sked sylt i varje. Grädda mitt i ugnen i 225°C, ca 15 min. Låt muffinsarna stå kvar i pannan några minuter innan de tas upp och får kallna på galler."
+}, {
+    "id": 4,
+    "name": "Pasta arrabiata",
+    "chef": "Maria Van Forte",
+    "img": "https://static.mathem.se/shared/images/recipes/doublelarge/pasta-arrabiata2-foto-nurlan-mathem.jpeg",
+    "time": "Under 30 minuter",
+    "portions": 1,
+    "category": "Vegansk",
+    "ingredients": [{
+        "name": "Hela tomater på burk",
+        "amount": 200,
+        "measurement": "g"
+    }, {
+        "name": "Vitlöksklyfta",
+        "amount": 1,
+        "measurement": "st"
+    }, {
+        "name": "Chiliflakes",
+        "amount": 1,
+        "measurement": "tsk"
+    }, {
+        "name": "Basilika",
+        "amount": 1,
+        "measurement": "Stor näve"
+    }, {
+        "name": "Salt & Peppar",
+        "amount": 1,
+        "measurement": "ögonmått"
+    }, {
+        "name": "Olivolja",
+        "amount": 4,
+        "measurement": "msk"
+    }, {
+        "name": "Penne pasta",
+        "amount": 100,
+        "measurement": "g"
+    }],
+    "description": "Öppna upp konservburkarna med hela tomater, ta ner en sax direkt i burken och klipp tomaterna tills de blir mindre bitar. Ställ åt sidan. Hacka vitlöken, hacka inte för tunna skivor för då kan de lätt brännas vid. Hetta upp ca 3 msk olivolja och stek vitlöken under omrörning på medelvärme. Vänd i chiliflakes och stek lite till. Tillsätt tomaterna, krydda med salt och peppar, rör om och låt puttra i ca 15 min. Koka pastan al dente, bevara 1 dl av pastavattnet och sila av. Vänd färsk basilika i tomatsåsen, tillsätt sedan pastan, pastavatten och blanda. Ringla lite olivolja över, blanda och servera. Buon appetito!"
+}, {
+    "id": 5,
+    "name": "Soys de beanojs",
+    "chef": "Svennen",
+    "img": "https://assets.icanet.se/t_ICAseAbsoluteUrl/imagevaultfiles/id_227670/cf_259/bearnaisesas.jpg",
+    "time": "Under 1 timme",
+    "portions": 1,
+    "category": "Vegetarisk",
+    "ingredients": [{
+        "name": "Olja",
+        "amount": 2,
+        "measurement": "dl"
+    }, {
+        "name": "Bärs",
+        "amount": 3,
+        "measurement": "dl"
+    }, {
+        "name": "Dragon",
+        "amount": 1,
+        "measurement": "st"
+    }, {
+        "name": "Ägg",
+        "amount": 2,
+        "measurement": "st"
+    }, {
+        "name": "Salt & Peppar",
+        "amount": 1,
+        "measurement": "ögonmått"
+    }, {
+        "name": "Cayenne",
+        "amount": 2,
+        "measurement": "dl"
+    }, {
+        "name": "Vinäger",
+        "amount": 4,
+        "measurement": "tsk"
+    }],
+    "description": "Blanda vinäger, schalottenlökfond samt vatten i en kastrull tillsammans med dragon och vitpepparkorn. Koka ihop, reducera, till ungefär hälften. Smält smöret på svag värme i en kastrull. Dra bort kastrullen från värmen, men håll smöret varmt. Sila ner vinägerreduktionen i en ny kastrull. Vispa ner 3 äggulor. Sätt kastrullen i ett vattenbad med småkokande vatten. Vispa tills såsen tjocknar. Ta bort kastrullen ur vattenbadet och häll sakta ner det smälta, skirade smöret i en fin stråle under vispning. (Smör skirar du genom att smälta det och ställa det åt sidan och låta smöret skikta sig. Använd sedan bara det övre skiktet och kasta bort bottensatsen.) Strö i hackad dragon och hackad persilja, smaka av med salt och cayennpeppar efter smak. "
+}, {
+    "id": 6,
+    "name": "Falafel",
+    "chef": "Nils",
+    "img": "https://img.koket.se/standard-mega/malmofalafel.png",
+    "time": "Över 1 timme",
+    "portions": 1,
+    "category": "Vegetarisk",
+    "ingredients": [{
+        "name": "Kikärtor",
+        "amount": 500,
+        "measurement": "g"
+    }, {
+        "name": "Gullök",
+        "amount": 3,
+        "measurement": "st"
+    }, {
+        "name": "Vitlök",
+        "amount": 2,
+        "measurement": "st"
+    }, {
+        "name": "Koriander",
+        "amount": 1,
+        "measurement": "knippe"
+    }, {
+        "name": "Persilja",
+        "amount": 1,
+        "measurement": "knippe"
+    }, {
+        "name": "Salladslök",
+        "amount": 1,
+        "measurement": "st"
+    }, {
+        "name": "Spiskummin",
+        "amount": 4,
+        "measurement": "msk"
+    }, {
+        "name": "Torkad koriander",
+        "amount": 1,
+        "measurement": "msk"
+    }, {
+        "name": "Chilifrukter",
+        "amount": 2,
+        "measurement": "st"
+    }, {
+        "name": "Salt",
+        "amount": 1,
+        "measurement": "msk"
+    }, {
+        "name": "Bikarbonat",
+        "amount": 1,
+        "measurement": "tsk"
+    }, {
+        "name": "Olja till fritering",
+        "amount": 10,
+        "measurement": "dl"
+    }],
+    "description": "Blötlägg kikärterna i vatten över natten, eller 9 till 12 timmar. Tänk på att de sväller nästan tre gånger sin storlek, så ha i mycket vatten. Låt kikärterna rinna av i ett durkslag. Skala och hacka lök och vitlök. Dela chilin i bitar. Mixa till en slät massa i en matberedare tillsammans med hackad persilja och koriander. Flytta över i en bunke. Mixa de blötlagda kikärterna i omgångar, tillsätt lite vatten. Det ska inte bli en slät massa utan vara lite grynigt. Tillsätt till bunken med lökblandningen. Tillsätt de torkade kryddorna och bikarbonat. Bikarbonat gör att falafeln fluffar upp vid friteringen. Hetta upp oljan till 185 grader i en djup kastrull. Oljan ska bubbla så fort falafeln går i, men inte för häftigt, då är den för varm. Gör bollarna. Använder du skedar, så ta en sked smet och skopa smeten från den ena skeden till den andra och lägg försiktigt ner falafeln i oljan. Lägg i några falaflar i taget och vänta i några sekunder innan du rör runt så att de inte går sönder. Använd gärna en hålslev eller en sil när du plockar upp falafeln. Den ska vara gyllenbrun och ytan ska vara lite hård. Lägg på en bit hushållspapper och servera så snart som möjligt. Källsortera ditt matavfall till återvinning och njut av din falafel! "
+}, {
+    "id": 7,
+    "name": "Salsicciapasta",
+    "chef": "Laura Boschi",
+    "img": "https://res.cloudinary.com/coopsverige/image/upload/w_1200,h_1200/v1483449034/181655.jpg",
+    "time": "Under 1 timme",
+    "portions": 1,
+    "category": "Animaliska produkter",
+    "ingredients": [{
+        "name": "Bananschalottenlökar",
+        "amount": 1,
+        "measurement": "st"
+    }, {
+        "name": "Vitlök",
+        "amount": 1,
+        "measurement": "st"
+    }, {
+        "name": "Romanticatomater",
+        "amount": 100,
+        "measurement": "g"
+    }, {
+        "name": "Basilika",
+        "amount": 0.5,
+        "measurement": "kruka"
+    }, {
+        "name": "Salsicciakorv",
+        "amount": 100,
+        "measurement": "g"
+    }, {
+        "name": "Vispgrädde",
+        "amount": 1,
+        "measurement": "dl"
+    }, {
+        "name": "Parmesanost",
+        "amount": 15,
+        "measurement": "g"
+    }, {
+        "name": "Olivolja",
+        "amount": 1,
+        "measurement": "msk"
+    }, {
+        "name": "Salt och svartpeppar",
+        "amount": 2,
+        "measurement": "krm"
+    }],
+    "description": "Koka pastan enligt anvisning på förpackningen. Skala, halvera och strimla löken fint. Skala och finhacka vitlöken. Skär tomaterna i klyftor. Strimla hälften av basilikan fint, spara resten till garnering. Fräs löken mjuk och glansig i olja i en stor stekpanna. Tillsätt vitlöken och fortsätt fräsa någon minut. Tillsätt tomaterna och basilikan. Vänd runt och låt fräsa några minuter. Snitta korvarna och tryck ut färsen och stek den i en annan stekpanna. Tillsätt tomatblandningen i salsicciafärsen och blanda. Häll i grädden och låt allt koka ihop några minuter. Smaka av med salt och massa nymalen svartpeppar. Häll av pastan och blanda med såsen, lägg upp på tallrikar och riv över parmesan och toppa med en kvist basilika. "
+}, {
+    "id": 8,
+    "name": "Sesam-Tuna",
+    "chef": "Leon",
+    "img": "https://cookingtoentertain.com/wp-content/uploads/2020/07/Sesame-crusted-ahi-tuna-scaled.jpg",
+    "time": "Under 1 timme",
+    "portions": 1,
+    "category": "Animaliska produkter",
+    "ingredients": [{
+        "name": "Tonfisk",
+        "amount": "200",
+        "measurement": "g"
+    }],
+    "description": "Lägg tonfisken i sojabad i ca 10 minuter på båda sidorna. Vänd sedan tonfisken i sesamfrön tills hela biten är täckt. Stek i torr och varm panna i ca 1 minut på båda sidorna."
+}, {
+    "id": 9,
+    "name": "Jakes Soja Nuggets",
+    "chef": "Jakie Bakie",
+    "img": "https://www.halsanskok.se/sites/default/files/styles/500x700_transparent/public/2020-08/44014553-HK-Nuggets%20700g%20CTVL310-FOP.png?itok=df8gmwFz",
+    "time": "Under 30 min",
+    "portions": 1,
+    "category": "Vegansk",
+    "ingredients": [{
+        "name": "Soja nuggets",
+        "amount": "10",
+        "measurement": "st"
+    }],
+    "description": "Stek nuggsen i rapsolja till du inte orkar vänta längre."
+}, {
+    "id": 10,
+    "name": "Kragsta gulasch",
+    "chef": "Ica Kragsta",
+    "img": "https://happyride.se/forum/attachments/gsch2-jpg.223081/",
+    "time": "Under 1 timme",
+    "portions": 1,
+    "category": "Animaliska produkter",
+    "ingredients": [{
+        "name": "Hemligt",
+        "amount": "2",
+        "measurement": "krm"
+    }],
+    "description": "Stek gulashen med 2.5 dl creme fraiche och blanda sedan med ris."
+}, {
+    "id": 11,
+    "name": "Blåbärsmuffins",
+    "chef": "Wilma Almhuldth",
+    "img": "https://i0.wp.com/lindasbakskola.se/app/uploads/sites/4/2016/05/blbrsmuffinsflorsocker3.jpg?ssl=1",
+    "time": "Under 1 timme",
+    "portions": 1,
+    "category": "Vegetarisk",
+    "ingredients": [{
+        "name": "Blåbär",
+        "amount": "200",
+        "measurement": "g"
+    }],
+    "description": "Baka"
+}, {
+    "id": 12,
+    "name": "Hembakade frallor ish",
+    "chef": "Sussi Winter",
+    "img": "https://media.dixiwonderland.com/2019/03/dixi-wonderland-Hembakat-br%C3%B6d-f%C3%B6r-f%C3%B6rsta-g%C3%A5ngen-4.png",
+    "time": "Under 1 timme",
+    "portions": 1,
+    "category": "Vegetarisk",
+    "ingredients": [{
+        "name": "Vetemjöl",
+        "amount": "5",
+        "measurement": "dl"
+    }],
+    "description": "1. Arbeta snabbt ihop den LÖSA degen. Strö över ett par msk mjöl över degen och låt jäsa 1-1,5 tim.\n2. Värm ugnen till 240-250 grader.\n3. Strö ut 0,5-1 dl mjöl på bakbordet och stjälp försiktigt upp degen. KNÅDA INTE! Jäsbubblorna ska få vara kvar.\n4. Strö ytterligare lite vetemjöl över degen, knappt 0,5 dl. Platta till degen något.\n5. Dela upp degen i bitar och lägg på plåtar täckta med bakplåtspapper. De blir lite olikformade pga att degen är lite kladdig, men så ska det vara.\n6. Grädda bröden (de behöver inte jäsa) i mitten av ugnen i ca 17-20 min.\n7. Låt bröden svalna utan handduk, så blir brödskorpan frasig och fin."
+}]

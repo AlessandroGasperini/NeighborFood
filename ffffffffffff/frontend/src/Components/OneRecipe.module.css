@@ -1,0 +1,23 @@
+.recipeNames {
+    animation: recipeNames .5s ease-in-out;
+    color: white;
+    font-size: 2rem;
+}
+
+.theRecipeLink {
+    text-decoration: none;
+}
+
+@keyframes recipeNames {
+
+    0% {
+        transform: scale(0%);
+
+    }
+
+    100% {
+        transform: scale(100%);
+
+    }
+
+}

@@ -1,0 +1,73 @@
+.container {
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    margin-bottom: 3vh;
+}
+
+.container span {
+    font-size: 18px;
+    font-family: 'Signika', sans-serif;
+}
+
+.container h2 {
+    font-size: 1.6rem;
+    font-family: 'Signika', sans-serif;
+}
+
+.container svg {
+    width: 3vh;
+}
+
+.container img {
+    width: 10vh;
+    height: 10vh;
+    border-radius: 50%;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+
+.veg {
+    display: flex;
+    background-color: #9bcad5;
+    padding: 1vh 3vh;
+    width: 38vh;
+    border-radius: 5px;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 3px 6px 1px #5c6557;
+    margin-top: 2vh
+}
+
+
+
+.vegan {
+    display: flex;
+    background-color: #CDDEC3;
+    ;
+    padding: 1vh 3vh;
+    width: 38vh;
+    border-radius: 5px;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 3px 6px 1px #5c6557;
+    margin-top: 2vh
+}
+
+.animal {
+    display: flex;
+    background-color: #e1bb8c;
+    padding: 1vh 3vh;
+    width: 38vh;
+    border-radius: 5px;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 3px 6px 1px #5c6557;
+    margin-top: 2vh
+}

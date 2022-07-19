@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Just+Another+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300&display=swap');
+
+.container {
+    text-align: center;
+    background-color: #98B4C0;
+    height: 120vh;
+}
+
+.container h1 {
+    margin-bottom: 1vh;
+    font-size: 1.4rem;
+    font-family: 'Signika', sans-serif;
+}
+
+.container img {
+    height: 15vh;
+    border-radius: 40% 10%;
+}
+
+.container h5 {
+    margin: 3px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.container h6 {
+    margin: 10px;
+    font-weight: 800;
+    color: #292f48;
+    font-family: 'Signika', sans-serif;
+    font-size: 1rem;
+}
+
+
+.addToFavourites {
+    background-color: rgb(140, 181, 140);
+    font-family: 'Signika', sans-serif;
+    border: 1px solid;
+    width: 10vh;
+    height: 5vh;
+    border-radius: 3px;
+    box-shadow: 0px 1px 3px 0px black;
+    font-weight: 600;
+}
+
+.noFav {
+    background-color: #ff000000;
+    font-family: 'Signika', sans-serif;
+    border: 1px solid;
+    width: 10vh;
+    height: 5vh;
+    border-radius: 3px;
+    box-shadow: 0px 1px 3px 0px black;
+    font-weight: 600;
+}
+
+.noFav:focus {
+    background-color: rgb(140, 181, 140);
+}
+
+.backBtn {
+    position: fixed;
+    bottom: -9vh;
+    left: 2vh;
+    width: 5vh;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.ingredients {
+    text-align: left;
+    width: 40vh;
+    height: 40vh;
+    background-color: #FFFDF6;
+    padding: 1vh;
+    margin: 0 auto;
+    border-radius: 3px;
+    overflow: scroll;
+    font-family: 'Signika', sans-serif;
+}
+
+.portionCount {
+    display: flex;
+    justify-content: center;
+    background-color: #F0ECE2;
+    margin: 0vh auto;
+    padding: 2vh;
+    border-radius: 0 0 3px 3px;
+    width: 38vh;
+}
+
+.portionCount button {
+    width: 6vh;
+    height: 6vh;
+    font-size: 2rem;
+    background-color: transparent;
+    border: 1px solid;
+    border-radius: 3px;
+}
+
+.portionCount h5 {
+    padding: 0 7vh;
+    font-size: 2rem;
+    font-style: normal;
+    font-family: 'Signika', sans-serif;
+}
+
+.hideBtn {
+    visibility: hidden;
+}
+
+.descriptionTitle {
+    font-size: 1.2rem;
+    font-family: 'Signika', sans-serif;
+}
+
+.description p {
+    width: 34vh;
+    height: 20vh;
+    text-align: justify;
+    font-family: 'Signika', sans-serif;
+    overflow: scroll;
+    border: 3px solid;
+    border-radius: 3px;
+    margin: 1vh auto;
+    padding: 3px 2vh;
+    margin-bottom: 4vh;
+    font-family: 'Signika', sans-serif;
+}
+
+.infoSection {
+    margin-top: -5vh;
+}
+
+.ingredients p {
+    font-size: 1.2rem;
+}
+
+.allMeasurements {
+    display: flex;
+    align-items: center;
+}
+
+.allMeasurements span {
+    margin: 0 1vh;
+    font-weight: bold;
+}
